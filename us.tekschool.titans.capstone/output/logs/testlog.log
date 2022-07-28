@@ -1,0 +1,7 @@
+2022-07-27 17:38:17,909 - ./src/test/resources/input/log4j.properties -INFO - ScenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2022-07-27 17:38:21,401 - ./src/test/resources/input/log4j.properties -INFO - user is on Retail Website
+2022-07-27 17:38:27,021 - ./src/test/resources/input/log4j.properties -INFO - user clicked on MyAccount
+2022-07-27 17:38:27,263 - ./src/test/resources/input/log4j.properties -INFO - user clicked on Login Option
+2022-07-27 17:38:27,905 - ./src/test/resources/input/log4j.properties -INFO - user entered cali.titans@tekschool.us and cali123
+2022-07-27 17:38:33,511 - ./src/test/resources/input/log4j.properties -INFO - user clicked on Login Button
+2022-07-27 17:38:33,599 - ./src/test/resources/input/log4j.properties -INFO - user logged in to myAccount dashboard
